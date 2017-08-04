@@ -11,7 +11,7 @@ namespace Snake
         static void Main(string[] args)
         {
             Console.WriteLine("Звёзды не мертвы!");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
